@@ -1,1 +1,1 @@
-command line projects
+command line projects.
