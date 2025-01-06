@@ -1,3 +1,2 @@
 command line projects.
-npm
 
